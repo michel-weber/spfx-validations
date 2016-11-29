@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-validations-client-side-solution",
+    "id": "c4a08401-9fe2-4fc6-8751-4a9db27e4ffc",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-validations.spapp"
+  }
+}

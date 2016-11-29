@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "c8edede9-0512-4a17-9fd5-522d1115e56e",
+  "alias": "SpfxValidationsWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "c8edede9-0512-4a17-9fd5-522d1115e56e",
+    "group": { "default": "Under Development" },
+    "title": { "default": "spfx-validations" },
+    "description": { "default": "spfx-validations description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "spfx-validations"
+    }
+  }]
+}
